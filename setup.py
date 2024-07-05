@@ -4,6 +4,7 @@ from pupa import __version__
 
 long_description = ''
 
+
 setup(name='pupa',
       version=__version__,
       packages=find_packages(),
